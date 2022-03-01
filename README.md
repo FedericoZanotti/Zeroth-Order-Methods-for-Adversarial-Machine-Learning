@@ -11,6 +11,6 @@ via Conditional Gradient and Gradient Updates](https://proceedings.neurips.cc/pa
 
 This work focuses on implementing the algorithms in Adversarial Machine Learning scenarios. In particular the **MINST** database is used and the task was to find the universal perturbation &delta such that the Deep Neural Network makes an incorrect classification. To achieve this objective a loss function is optimized by ZSCG, FZFW, FZCGS:
 
-[formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+&psi; | &#968; | Greek small letter psi | ψ |                                                                         
 
 
